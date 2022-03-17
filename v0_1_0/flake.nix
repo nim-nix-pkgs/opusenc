@@ -11,7 +11,7 @@
   inputs.src-opusenc-v0_1_0.owner = "~ehmry";
   inputs.src-opusenc-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-opusenc-v0_1_0.repo  = "nim_opusenc";
-  inputs.src-opusenc-v0_1_0.type  = "other";
+  inputs.src-opusenc-v0_1_0.type  = "sourcehut";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
   let 
