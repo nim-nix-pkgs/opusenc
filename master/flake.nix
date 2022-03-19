@@ -9,7 +9,7 @@
   
   inputs.src-opusenc-master.flake = false;
   inputs.src-opusenc-master.owner = "~ehmry";
-  inputs.src-opusenc-master.ref   = "refs/heads/master";
+  inputs.src-opusenc-master.ref   = "master";
   inputs.src-opusenc-master.repo  = "nim_opusenc";
   inputs.src-opusenc-master.type  = "sourcehut";
   
