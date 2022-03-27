@@ -11,6 +11,7 @@
   inputs.src-opusenc-master.ref   = "master";
   inputs.src-opusenc-master.owner = "~ehmry";
   inputs.src-opusenc-master.repo  = "nim_opusenc";
+  inputs.src-opusenc-master.dir   = "";
   inputs.src-opusenc-master.type  = "sourcehut";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
