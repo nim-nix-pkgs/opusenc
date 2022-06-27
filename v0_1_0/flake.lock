@@ -37,22 +37,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-opusenc-master": "src-opusenc-master"
+        "src-opusenc-v0_1_0": "src-opusenc-v0_1_0"
       }
     },
-    "src-opusenc-master": {
+    "src-opusenc-v0_1_0": {
       "flake": false,
       "locked": {
-        "lastModified": 1593087477,
-        "narHash": "sha256-ISr/064CUvIqdMXch/t8bNMq7LXCGSFN1BswlnR9Nzo=",
+        "lastModified": 1592416854,
+        "narHash": "sha256-rlY3iyQuHy53HklTFjj61bbIvSgKNkWiAjswFXbWMOg=",
         "owner": "~ehmry",
         "repo": "nim_opusenc",
-        "rev": "7f0c91bc710db309332e0229818199a95f3a865d",
+        "rev": "322671e76cf927bb96fbd2c83d65641268a60d65",
         "type": "sourcehut"
       },
       "original": {
         "owner": "~ehmry",
-        "ref": "master",
+        "ref": "v0.1.0",
         "repo": "nim_opusenc",
         "type": "sourcehut"
       }
